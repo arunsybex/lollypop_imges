@@ -1,18 +1,45 @@
+// 20210331235331
+// https://metadata.unstoppabledomains.com/metadata/enviromine.crypto
+
 {
-    "title": "Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this NFT represents"
-        },
-        "image": {
-            "type": "string",
-            "description": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png"
-        }
+  "name": "ws check",
+  "description": "A .crypto blockchain domain. Use it to resolve your cryptocurrency addresses and decentralized websites.",
+  "external_url": "https://www.walletsocket.com/images/walletsocket-logo.png",
+  "image_data": "",
+  "image": "https://www.walletsocket.com/images/walletsocket-logo.png",
+  "background_color": "4C47F7",
+  "attributes": [
+    {
+      "trait_type": "domain",
+      "value": "enviromine.crypto"
+    },
+    {
+      "trait_type": "level",
+      "value": 2
+    },
+    {
+      "trait_type": "length",
+      "value": 10
+    },
+    {
+      "trait_type": "BCH",
+      "value": "1D7BXZqFTetqyZeWiE8VZSJ4Hif1Lwqjvx"
+    },
+    {
+      "trait_type": "BTC",
+      "value": "3LWgCjukyxEqfYZzDMjtPJUL4d8cXJrDRr"
+    },
+    {
+      "trait_type": "ETH",
+      "value": "0xD08d0bfd25fA3fCEF1508593E5E3b51f84981D88"
+    },
+    {
+      "trait_type": "LTC",
+      "value": "MS9ZJkrrp3NvLRtXvd8SQfhDzTMVSvKStM"
+    },
+    {
+      "trait_type": "type",
+      "value": "standard"
     }
+  ]
 }
